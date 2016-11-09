@@ -1,7 +1,10 @@
 body {
   font-family: 'Work Sans', sans-serif;
   color: #1a1a1a;
-  background-color:#ebebeb;
+ /* background-color:#ebebeb;*/
+ background-image: url("images/photo_by_Pineapples.jpg");
+ background-size: cover;
+ background-position: center;
 }
 
 h1 {
